@@ -1,0 +1,13 @@
+{
+    "id": "abb22abc-a7c1-41d7-9358-cfff79080709",
+    "name": "Sea Unicorn",
+    "model": "models/fish1.glb",
+    "tags": ["fish", "sea", "unicorn"],
+    "category": "decorations",
+    "parameters": [
+      
+    ],
+    "actions": [
+
+    ]
+  }
